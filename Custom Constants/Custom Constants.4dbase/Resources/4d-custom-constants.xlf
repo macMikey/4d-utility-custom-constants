@@ -90,7 +90,19 @@
 				<trans-unit id="Automatic color" d4:value="-255:L">
 					<source>Automatic color</source>
 					<note>To be used with object RGB colors.</note>
-				</trans-unit>								
+				</trans-unit>
+				
+				<!-- added -->
+				
+				<trans-unit id="Find in main list" d4:value="0:L">
+					<source>Find in main list</source>
+					<note>To be used with Find in list.</note>
+				</trans-unit>
+				<trans-unit id="Find in sub list" d4:value="1:L">
+					<source>Find in sub list</source>
+					<note>To be used with Find in list.</note>
+				</trans-unit>
+																												
 			 </group>
 			 
 		</body>	
