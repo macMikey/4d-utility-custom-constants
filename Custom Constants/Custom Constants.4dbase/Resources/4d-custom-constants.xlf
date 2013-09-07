@@ -29,8 +29,11 @@
 				
 		<body>
 
-			<group restype="x-4DK#">
-			
+			<group restype="x-4DK#" d4:groupID="101">
+				<trans-unit id="101_0">
+				   <source>Custom Constants</source>
+				   <target>Custom Constants</target>
+				</trans-unit>			
 				<trans-unit id="Reject data entry" d4:value="-1:L">
 				   <source>Reject data entry</source>
 				   <note>To be used with On Before Data Entry Event and listbox cells.</note>
